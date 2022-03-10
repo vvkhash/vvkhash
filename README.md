@@ -4,7 +4,7 @@
 How to create profile: https://habr.com/ru/post/649363/
 |  e |e   |   |   |  e |
 |---|---|---|---|---|
-| d  |  d |   |   |   |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkhashkovsky&layout=compact)](https://github.com/vkhashkovsky/gpdb)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkhashkovsky)](https://github.com/vkhashkovsky/gpdb) |   |   |   |
 
 
 <!---Для компактной версии-->
