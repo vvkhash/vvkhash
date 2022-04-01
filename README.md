@@ -1,5 +1,5 @@
-# vkhashkovsky
-𝕳𝖎! 𝖎 𝖆𝖒 𝖘𝖞𝖘𝖙𝖊𝖒𝖘 𝖊𝖓𝖌𝖎𝖓𝖊𝖊𝖗
+# Valery Khashkovsky, PhD.
+I like help teams and people to use suitable tools and improve processes using Devops practices in system administration, infrastructure and process management, software development, resource and requirements management, curriculum development.
 
 
 |   |   |   |
