@@ -7,3 +7,5 @@
 |   |   |   |
 |---|---|---|
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkhashkovsky&layout=compact)](https://github.com/vkhashkovsky/gpdb)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkhashkovsky)](https://github.com/vkhashkovsky/gpdb) | [![vkhashkovsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkhashkovsky)](https://github.com/vkhashkovsky/gpdb)  |
+
+![GitHub followers](https://img.shields.io/github/followers/vkhashkovsky?style=social)
