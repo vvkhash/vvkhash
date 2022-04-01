@@ -6,6 +6,6 @@
 
 |   |   |
 |---|---|
-|[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vkhashkovsky)] (test) | [![vkhashkovsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkhashkovsky)  |
+| ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vkhashkovsky) | ![vkhashkovsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkhashkovsky)  |
 
 ![GitHub followers](https://img.shields.io/github/followers/vkhashkovsky?style=social)
