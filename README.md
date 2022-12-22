@@ -6,7 +6,7 @@
 
 𝙸 𝚊𝚖 𝚛𝚎𝚊𝚍𝚢 𝚝𝚘 𝚌𝚘𝚗𝚝𝚒𝚗𝚞𝚘𝚞𝚜 𝚎𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝚝𝚘 𝚍𝚘 𝚖𝚢 𝚓𝚘𝚋𝚜 𝚋𝚎𝚜𝚝 𝚊𝚜 𝚜𝚘𝚘𝚗 𝚊𝚜 𝚙𝚘𝚜𝚜𝚒𝚋𝚕𝚎. 𝙸'm 𝚜𝚞𝚛𝚎 𝚝𝚑𝚊𝚝 𝚒 𝚑𝚊𝚟𝚎 𝚑𝚒𝚐𝚑 𝚌𝚘𝚖𝚖𝚞𝚗𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚜𝚔𝚒𝚕𝚕𝚜 𝚕𝚎𝚟𝚎𝚕 𝚜𝚘 𝚒`𝚕𝚕 𝚋𝚎 𝚊𝚋𝚕𝚎 𝚝𝚘 𝚜𝚘𝚌𝚒𝚊𝚕𝚒𝚣𝚎 𝚠𝚒𝚝𝚑 𝚊𝚗𝚢 𝚌𝚞𝚜𝚝𝚘𝚖𝚎𝚛𝚜 𝚊𝚗𝚍 𝚎𝚊𝚜𝚒𝚕𝚢 𝚋𝚎𝚌𝚘𝚖𝚎 𝚝𝚑𝚎 𝚙𝚊𝚛𝚝 𝚘𝚏 𝚊𝚗𝚢 𝚝𝚎𝚊𝚖 𝚊𝚜 𝚊 𝚙𝚛𝚘𝚊𝚌𝚝𝚒𝚟𝚎 𝚙𝚎𝚛𝚏𝚘𝚛𝚖𝚎𝚛 𝚊𝚗𝚍 𝚊𝚜 𝚊 𝚝𝚎𝚊𝚖 𝚕𝚎𝚊𝚍𝚎𝚛.
 
-| ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vkhashkovsky&show_icons=true) | ![vkhashkovsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkhashkovsky&show_icons=true&layout=compact)  |
+| ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vvkhash&show_icons=true) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vvkhash&show_icons=true&layout=compact)  |
 |---|---|
 
-![GitHub followers](https://img.shields.io/github/followers/vkhashkovsky?style=social)
+![GitHub followers](https://img.shields.io/github/followers/vvkhash?style=social)
