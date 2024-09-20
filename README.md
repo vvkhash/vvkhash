@@ -2,7 +2,9 @@
 
 **VALERIY KHASHKOVSKIY,**
 
-****Ph.D.
+Ph.D.
+
+Systems engineer / DevOps / FinOps
 
 ---
 
