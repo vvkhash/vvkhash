@@ -1,8 +1,6 @@
 <p align="right"><sub> „𝘬𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦 𝘰𝘧 𝘤𝘦𝘳𝘵𝘢𝘪𝘯 𝘱𝘳𝘪𝘯𝘤𝘪𝘱𝘭𝘦𝘴 𝘦𝘢𝘴𝘪𝘭𝘺 𝘤𝘰𝘮𝘱𝘦𝘯𝘴𝘢𝘵𝘦𝘴 𝘵𝘩𝘦 𝘭𝘢𝘤𝘬 𝘰𝘧 𝘬𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦 𝘰𝘧 𝘤𝘦𝘳𝘵𝘢𝘪𝘯 𝘧𝘢𝘤𝘵𝘴.“ —  𝘊𝘭𝘢𝘶𝘥𝘦 𝘈𝘥𝘳𝘪𝘦𝘯 𝘏𝘦𝘭𝘷é𝘵𝘪𝘶𝘴 </sub></p>
 
-**VALERIY KHASHKOVSKIY,**
-
-Ph.D.
+**VALERIY KHASHKOVSKIY,** _Ph.D._
 
 Systems engineer / DevOps / FinOps
 
