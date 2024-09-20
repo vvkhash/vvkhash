@@ -9,4 +9,5 @@ As a Lead Systems Engineer, I’m happy to work on different projects and bring 
 
 ![GitHub followers](https://img.shields.io/github/followers/vvkhash?style=social)
 
-
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vvkhash&show_icons=true)
+![Top Lang1](https://api.vvkhash.com)
