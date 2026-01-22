@@ -13,4 +13,4 @@ Systems and Software Engineer (since 1997) with broad experience delivering and 
 
 ![GitHub followers](https://img.shields.io/github/followers/vvkhash?style=social)
 
-![CV](https://vvkhash.com)
+[CV](https://vvkhash.com)
