@@ -7,8 +7,7 @@ Systems engineer / DevOps / FinOps
 ---
 
 
-As a Systems and Software engineer (since 1997), I'm happy to work on different projects and bring my expertise and experience to the clients. I take a part in audits and may coordinate team work. Among others I am exciting take part in non-project activities such as Technical interviewing, contribution to internal projects and open source. I like help teams and people to use suitable tools and improve processes using Devops practices in systems engineering, infrastructure and process management, software development, resource and requirements management, curriculum development
-I'm comfortable using variety tools and platforms. Being an Ph.D. in Software engineering I am comfortable with projects based on tech and science models.
+Systems and Software Engineer (since 1997) with broad experience delivering and operating complex systems. I support teams through audits, coordination, and continuous improvement—bringing DevOps and systems engineering practices to infrastructure, SDLC, and process excellence. I also contribute beyond project work through technical interviewing, internal initiatives, and open source. Ph.D. in Software Engineering; comfortable working across diverse tools, platforms, and technically rigorous environments.
 
 ---
 
