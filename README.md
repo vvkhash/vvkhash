@@ -2,7 +2,7 @@
 
 **VALERIY KHASHKOVSKIY,** _Ph.D._
 
-Systems engineer / DevOps / FinOps
+Systems and Software Engineer (DevOps, FinOps, SRE, CI/CD)
 
 ---
 
