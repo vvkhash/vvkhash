@@ -6,7 +6,9 @@ Systems engineer / DevOps / FinOps
 
 ---
 
-As a Lead Systems Engineer, I’m happy to work on different projects and bring my expertise and experience to the clients I’m comfortable using variety tools and platforms, including such classes of tools like CI/CD tools (Gitlab pipelines, Jenkins, Concourse-CI, GoCD), IAAC (Terraform), Configuration management tools (Ansible), Software development tools (Procedural, Functional, Scripting), FinOps tools and methods. Being a Lead Systems Engineer I take a part in audits and may coordinate team work. Among others I am exciting take part in non-project activities such as Technical interviewing, contribution to internal projects and open source. I like help teams and people to use suitable tools and improve processes using Devops practices in systems engineering, infrastructure and process management, software development, resource and requirements management, curriculum development.
+
+As a Systems and Software engineer (since 1997), I'm happy to work on different projects and bring my expertise and experience to the clients. I take a part in audits and may coordinate team work. Among others I am exciting take part in non-project activities such as Technical interviewing, contribution to internal projects and open source. I like help teams and people to use suitable tools and improve processes using Devops practices in systems engineering, infrastructure and process management, software development, resource and requirements management, curriculum development
+I'm comfortable using variety tools and platforms. Being an Ph.D. in Software engineering I am comfortable with projects based on tech and science models.
 
 ---
 
